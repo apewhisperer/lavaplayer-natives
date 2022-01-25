@@ -9,4 +9,4 @@ This is a workaround for lavaplayer not working on aarch64 OS:
 - optionally you can test the entire zip file for compatibility inside 7zip or such
 - done,  you can run your program on 64-bit arm architecture now!
 
-***DISCLAIMER***: There is a lib for 32-bit, but the sound quality will get affected by usuing it over 64 version.
+*DISCLAIMER*: There is a lib for 32-bit, but the sound quality will get affected by usuing it over 64 version.
